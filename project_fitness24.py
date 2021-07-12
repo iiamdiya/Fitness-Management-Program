@@ -100,7 +100,7 @@ while 1==1:
                 break
 
 
-    elif a=2:
+    elif a==2:
         print("------------")
         print("|          |")
         print("|  TOOLS   |")
